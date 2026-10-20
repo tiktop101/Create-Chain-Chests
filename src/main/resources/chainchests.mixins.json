@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.chainchests.chainchests.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ChainConveyorBlockEntityMixin"
+  ],
+  "client": [
+    "ChainConveyorPackageMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

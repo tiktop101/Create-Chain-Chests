@@ -1,0 +1,94 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/chest/normal"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/chest/trapped"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/chest/ender"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_white"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_orange"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_magenta"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_light_blue"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_yellow"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_lime"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_pink"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_gray"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_light_gray"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_cyan"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_purple"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_blue"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_brown"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_green"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_red"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shulker/shulker_black"
+    },
+    {
+      "type": "minecraft:directory",
+      "source": "entity/chest",
+      "prefix": "entity/chest/"
+    },
+    {
+      "type": "minecraft:directory",
+      "source": "entity/shulker_box",
+      "prefix": "entity/shulker_box/"
+    }
+  ]
+}
